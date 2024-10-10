@@ -3,18 +3,14 @@ import { theme } from "../../constants/theme";
 export const styles = {
   btn: {
     width: "100%",
-    backgroundColor: theme.colors.green,
-
-    alignItems: 'center',
-    justifyContent: 'center',
-
-    marginBottom: 16,
+    backgroundColor: theme.colors.primary,
+    borderRadius: 6
   },
   buttonText: {
-
-    fontSize: theme.FONT_SIZE.lg,
+    textAlign: "center",
+    fontSize: theme.FONT_SIZE.md,
     color: '#ffffff',
     textAlign: 'center',
-    padding: 8,
+    padding: 14,
   }
 }

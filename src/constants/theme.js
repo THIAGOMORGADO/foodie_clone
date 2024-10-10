@@ -4,7 +4,8 @@ const theme = {
     darkGray: '#5d6275',
     lightGray: '#f4f7fe',
     mediumGray: '#a6abbc',
-    green: '#28c682'
+    green: '#28c682',
+    white: '#fff',
   },
   FONT_SIZE: {
     xsm: 11,
